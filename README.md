@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Paul Doherty. I am reacquintining myself with GitHub, specfically GitHub Actions. 👋
 
 <!--
 **pdoherty2004/pdoherty2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
